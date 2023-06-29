@@ -28,7 +28,7 @@ def main():
 		op = 'division'
 	else:
 		final = multiplication(n1, n2)
-		op = 'multplication'
+		op = 'multiplication'
 
 	print(f"result: {final:.2f}")
 	print("\nwriting the logs in the csv file")
